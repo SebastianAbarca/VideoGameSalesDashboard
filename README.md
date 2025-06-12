@@ -10,13 +10,21 @@ video-game-sales-dashboard/
 │ └── dashboard_overview.png # Preview image of the main dashboard
 ├── README.md # Project overview
 
-x## 📊 Dashboard Overview
+## 📊 Dashboard Overview
 
-The dashboard includes:
-- **Sales by Genre**: Total and regional sales stacked by genre.
-- **Platform Performance**: Visual comparison of sales across gaming platforms.
-- **Publisher Trends**: Sales breakdown by publisher and region.
-- **Critic Scores & Sales**: Exploration of how review scores relate to performance.
+This repository contains a Tableau workbook focused on analyzing video game sales across time, genres, and regions.  
+
+The featured **dashboard** combines key insights such as:
+
+- 📈 **Sales over Time**  
+  Displays global total sales trends from the 1970s to the 2020s, allowing users to observe growth, peaks, and declines over time.
+
+- 🎮 **Sales by Genre**  
+  Compares genre popularity using stacked bar charts, broken down by regional sales (North America, Japan, PAL, and Other).
+
+Interactive filters on the right allow you to refine the view by genre and region, helping explore how specific categories performed across global markets.
+
+> 🔎 Note: The full Tableau **workbook** (`.twbx`) includes additional visualizations (sheets) and will be expanded with more dashboards and a Tableau Story in future updates.
 
 > 🖼️ _Preview available in the `screenshots/` folder._
 
