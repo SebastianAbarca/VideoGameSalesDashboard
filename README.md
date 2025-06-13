@@ -3,12 +3,19 @@
 This project visualizes global video game sales data using Tableau. It provides insights into trends across genres, regions, platforms, and more.
 
 ## 📁 Repository Structure
-video-game-sales-dashboard/
-├── cleaned_data.csv # Final cleaned dataset used in Tableau
-├── MyFirstBook.twbx # Tableau packaged workbook
-├── screenshots/
-│ └── dashboard_overview.png # Preview image of the main dashboard
-├── README.md # Project overview
+
+- `cleaned_data.csv`  
+  Final cleaned dataset used in Tableau.
+
+- `MyFirstBook.twbx`  
+  Tableau packaged workbook.
+
+- `screenshots/`  
+  Folder containing images related to the project.  
+  - `dashboard_overview.png` — Preview image of the main dashboard.
+
+- `README.md`  
+  Project overview and documentation.
 
 ## 📊 Dashboard Overview
 
